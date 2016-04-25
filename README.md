@@ -7,6 +7,7 @@ This project aims to read data from a PS/2 mouse and a normal Amiga/Atari/C64 jo
 
 * Single Arduino .ino file, without any dependencies. Easy peasy.
 * Utilises hardware features as much as possible. Robust design.
+* At the time of writing, probably not working very well. Untested with a proper CDTV (mine is still in storage). Looks good on my scope though :)
 
 # Mouse connection (Mini-DIN 6 female)
 ![Mini-DIN 6](http://www.betaarchive.com/imageupload/2012-02/1329677183.or.24457.png)
